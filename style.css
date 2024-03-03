@@ -1,0 +1,19 @@
+body{
+    background: radial-gradient(yellow,orange,red);
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    background: lightsalmon;
+    color: antiquewhite;
+}
+#status,#number_of_objects{
+   font-size: 20px;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px  yellow;
+    border-radius: 10px;
+    margin-top: 180px;
+}
